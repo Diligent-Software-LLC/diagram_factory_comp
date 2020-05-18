@@ -140,10 +140,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="433" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1589822635209" />
-    <state x="60" y="51" width="1550" height="903" key="CommitChangelistDialog2" timestamp="1589824472733">
+    <state x="60" y="51" width="1550" height="903" key="CommitChangelistDialog2" timestamp="1589828283434">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="60" y="51" width="1550" height="903" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589824472733" />
+    <state x="60" y="51" width="1550" height="903" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589828283434" />
     <state width="1549" height="269" key="GridCell.Tab.0.bottom" timestamp="1589824796335">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -164,10 +164,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="425" y="235" width="816" height="550" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1589822964399" />
-    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1589828162543">
+    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1589828294645">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1589828162543" />
+    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1589828294645" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/diagram_factory_comp@DiagramFactoryCompTest.rcov" NAME="DiagramFactoryCompTest Coverage Results" MODIFIED="1589824792881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="diagram_factory_comp" />
