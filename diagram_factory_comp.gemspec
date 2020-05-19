@@ -43,7 +43,6 @@ Interface and Implementation.}
   # Gem specific runtime dependencies.
   spec.add_runtime_dependency 'diagram_factory_int', '~> 1'
   spec.add_runtime_dependency 'diagram_factory_impl', '~> 0'
-  spec.add_runtime_dependency 'node_diagram', '~> 0'
+  spec.add_runtime_dependency 'node_diagram', '~> 1'
 
 end
-
