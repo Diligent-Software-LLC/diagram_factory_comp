@@ -10,6 +10,7 @@ A DiagramFactory composition. Composites the Interface and Implementation.
 ## Documentation
 
 ### Interface
+
 - Refer Interface's 
 [Homepage](https://docs.diligentsoftware.org/diagram-1/factory/interface).
 

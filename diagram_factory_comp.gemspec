@@ -10,7 +10,11 @@ Gem::Specification.new do |spec|
   spec.summary               = %q{A DiagramFactory composition. Composites the
 Interface and Implementation.}
   spec.description           = %q{A DiagramFactory composition. Composites the
-Interface and Implementation.}
+Interface and Implementation. Donations support continuous improvement and
+maintenance. The aim is a reliable, integrable, and endurable Diagram library.
+Make a donation at the project's collective page:
+https://opencollective.com/diagram. One-time and recurring donations are
+available at $1, $2, $4, $8, and $16. Greatly appreciated.}
   spec.homepage              =
       "https://docs.diligentsoftware.org/diagram-1/factory#composition"
   spec.license               = "GPL-3.0"
@@ -39,10 +43,10 @@ Interface and Implementation.}
   # Development and testing dependencies.
   spec.add_development_dependency 'bundler', '~> 2.1'
   spec.add_development_dependency 'simplecov', '~> 0'
+  spec.add_development_dependency 'node_diagram', '~> 1'
 
   # Gem specific runtime dependencies.
   spec.add_runtime_dependency 'diagram_factory_int', '~> 1'
   spec.add_runtime_dependency 'diagram_factory_impl', '~> 0'
-  spec.add_runtime_dependency 'node_diagram', '~> 1'
 
 end
