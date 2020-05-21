@@ -26,9 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="982e9dc2-8a9d-4ad3-a0c3-bfe2d2f971f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diagram_factory_comp.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/diagram_factory_comp.gemspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/diagram_factory_comp.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/diagram_factory_comp.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="306" />
+    <option name="myElementSize" value="359" />
   </component>
   <component name="ExportToHTMLSettings">
     <option name="OPEN_IN_BROWSER" value="true" />
@@ -130,7 +128,7 @@
       <workItem from="1589822580657" duration="3290000" />
       <workItem from="1589904278307" duration="2323000" />
       <workItem from="1589914785786" duration="928000" />
-      <workItem from="1590088638176" duration="827000" />
+      <workItem from="1590088638176" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md.">
       <created>1589824473159</created>
@@ -167,10 +165,17 @@
       <option name="project" value="LOCAL" />
       <updated>1590089211868</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Development Complete&#10;&#10;Deleted node_diagram 'require'ment. Added a diagram development dependency.">
+      <created>1590089676575</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590089676575</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: Diagram Subsystem:{Factory} Component: Composition Sprints: 2 State: {Development}" />
+        <option name="defaultSearch" value="project: Diagram Subsystem:{Factory} Component: Composition Sprints: 2 State: {Prepare Deployment}" />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -197,17 +202,18 @@
     <MESSAGE value="Prepare Deployment&#10;&#10;Deleted Travis CI deployment settings. Updated changelog.md." />
     <MESSAGE value="Development Complete&#10;&#10;Bumped Major Version. Bumped node_diagram dependency's Major Version." />
     <MESSAGE value="Setup Complete&#10;&#10;Reverted Major Version and bumped the Patch Version. Edited Gem Specification's description. Added a node_diagram development dependency." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Reverted Major Version and bumped the Patch Version. Edited Gem Specification's description. Added a node_diagram development dependency." />
+    <MESSAGE value="Development Complete&#10;&#10;Deleted node_diagram 'require'ment. Added a diagram development dependency." />
+    <option name="LAST_COMMIT_MESSAGE" value="Development Complete&#10;&#10;Deleted node_diagram 'require'ment. Added a diagram development dependency." />
   </component>
   <component name="WindowStateProjectService">
     <state x="433" y="175" key="#Servers" timestamp="1589822635209">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="433" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1589822635209" />
-    <state x="60" y="51" width="1550" height="903" key="CommitChangelistDialog2" timestamp="1590089211486">
+    <state x="60" y="51" width="1550" height="903" key="CommitChangelistDialog2" timestamp="1590089847996">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="60" y="51" width="1550" height="903" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1590089211486" />
+    <state x="60" y="51" width="1550" height="903" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1590089847996" />
     <state width="1549" height="269" key="GridCell.Tab.0.bottom" timestamp="1590089461503">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -236,10 +242,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="498" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1589829133553" />
-    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1590089545484">
+    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1590089716248">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1590089545484" />
+    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1590089716248" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/diagram_factory_comp@DiagramFactoryCompTest.rcov" NAME="DiagramFactoryCompTest Coverage Results" MODIFIED="1590089457975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="diagram_factory_comp" />
