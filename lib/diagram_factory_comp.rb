@@ -4,7 +4,6 @@
 require_relative "diagram_factory_comp/version"
 require 'diagram_factory_int'
 require 'diagram_factory_impl'
-require 'node_diagram'
 
 # DiagramFactoryComp.
 # @class_description
